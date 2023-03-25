@@ -2,3 +2,39 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.SPACING {
+    margin-top: 10vh;
+}
+
+h1 {
+    font-size: 10vh !important;
+}
+
+.RGBBG {
+    background-color: #906A5A;
+}
+.Musical-Mosaic-Title{
+  font-weight: bold;
+  background: linear-gradient(to right, #f0e6a3, #9c9873);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;' 
+}
+
+.CUSTOM_btn {
+  background-color: white !important;
+  border: inset 2px #eee9c9 !important;
+}
+
+.logo {
+  box-shadow: inset 0 0 30px #55390c;
+  width: 25%;
+  
+}
+
+.mission-statement{           
+  -webkit-text-stroke: 1px #000000;
+  font-family: Montserrat;
+  color: #705757;
+}
+

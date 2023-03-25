@@ -1,0 +1,26 @@
+.chinaalbum {
+  width: 20px;
+  height: 20px;
+}
+
+btn {
+  background-color: white !important;
+  border: inset 2px #eee9c9 !important;
+}
+
+.imgSize {
+    width: 45vh;
+    height: 45vh;
+    object-fit: cover;
+}
+
+img {
+    object-fit: cover;
+    height: 45vh;
+    width: 45vh;
+}
+
+.BG {
+    background: #d0c0a4;
+}
+
